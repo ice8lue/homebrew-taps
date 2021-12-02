@@ -1,10 +1,10 @@
-# Ice8lue Taps
+# My Homebrew Taps
 
 ## How do I install these formulae?
 
-`brew install ice8lue/taps/<formula>`
+`brew install ice8lue/homebrew-taps/<formula>`
 
-Or `brew tap ice8lue/taps` and then `brew install <formula>`.
+Or `brew tap ice8lue/homebrew-taps` and then `brew install <formula>`.
 
 ## Documentation
 
